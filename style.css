@@ -1,0 +1,43 @@
+body{
+    background-color: aliceblue;
+}
+
+#edit{
+    text-decoration: line-through;
+}
+
+.to-do{
+    text-align: center;
+}
+
+.btn{
+    background-color: aqua;
+    padding: 5px;
+    margin: 10px;
+    width: 100px;
+    border-radius: 5px;
+    border-color: rgb(121, 162, 240);
+}
+
+.top{
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    border-color: aqua;
+}
+
+input{
+    width: 200px;
+}
+
+ol{
+    align-content: center;
+}
+
+li{
+    border: black;
+    font-size: medium;
+}
+
+h2{
+   color: darkcyan;
+}
